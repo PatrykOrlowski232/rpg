@@ -1,0 +1,17 @@
+Name;Melee;Weigth;DMGMin;DMGMax
+Sword;True;8;4;9
+Hammer;True;15;8;13
+Dagger;True;4;2;5
+Twin-blade;True;10;4;9
+Great-sword;True;12;12;15
+War-hammer;True;18;15;20
+Axe;True;16;10;14
+Great-axe;True;20;15;20
+Club;True;10;8;12
+Rapier;True;6;8;12
+Spear;True;7;7;10
+Halberd;True;15;12;15
+Bow;False;8;7;9
+Long-bow;False;12;10;15
+Crossbow;False;15;15;20
+Flintlock pistol;False;4;8;12
